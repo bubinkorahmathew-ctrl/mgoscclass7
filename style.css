@@ -49,6 +49,26 @@ body {
   gap: 15px;
 }
 
+/* Logo Area */
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.ossae-logo {
+  height: 64px;
+  width: auto;
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4));
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.logo-text {
+  display: flex;
+  flex-direction: column;
+}
+
 .church-title {
   font-family: 'Merriweather', serif;
   font-size: 1.4rem;
