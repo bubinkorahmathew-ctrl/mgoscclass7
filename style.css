@@ -446,3 +446,15 @@ input:checked + .slider:before {
     text-align: center;
   }
 }
+
+/* Footer Styling */
+.sanctuary-footer {
+  background-color: var(--wood-dark);
+  color: var(--gold-primary);
+  text-align: center;
+  padding: 25px 20px;
+  border-top: 3px solid var(--gold-primary);
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 40px;
+}
