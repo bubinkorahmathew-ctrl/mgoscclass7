@@ -225,6 +225,14 @@ const chapterQuestions = {
 langSwitch.addEventListener('change', (e) => {
     currentLang = e.target.checked ? 'ml' : 'en';
     langLabel.textContent = e.target.checked ? 'മലയാളം' : 'English';
+    
+    // Update Search Placeholder
+    if (currentLang === 'en') {
+        searchInput.placeholder = "Search... (e.g., Parables / സഭ)";
+    } else {
+        searchInput.placeholder = "തിരയുക... (ഉദാ: സഭ / Parables)";
+    }
+    
     updateLanguage();
 });
 
