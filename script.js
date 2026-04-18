@@ -154,6 +154,38 @@ const chapterQuestions = {
             answerEn: "Solace / Healing",
             answerMl: "ആശ്വാസം / സൗഖ്യം"
         }
+    ],
+    18: [
+        {
+            en: "What is the significance of Promeyon-Sedra prayers in Orthodox worship?",
+            ml: "ഓർത്തഡോക്സ് ആരാധനയിൽ പ്രൊമിയോൺ-സെദറ പ്രാർത്ഥനകളുടെ പ്രാധാന്യം എന്താണ്?",
+            answerEn: "These prayers serve as a transition where the congregation repents for their sins and prepares to receive the holy body and blood of Jesus Christ.",
+            answerMl: "വിശ്വാസികൾ തങ്ങളുടെ പാപങ്ങളെക്കുറിച്ച് അനുതപിക്കാനും വിശുദ്ധ കുർബാന സ്വീകരിക്കാനായി ഒരുങ്ങാനും ഈ പ്രാർത്ഥനകൾ സഹായിക്കുന്നു."
+        },
+        {
+            en: "What is the meaning of the word ‘Hoosoyo?’",
+            ml: "‘ഹൂസോയോ’ എന്ന വാക്കിന്റെ അർത്ഥമെന്താണ്?",
+            answerEn: "The word 'Hoosoyo' means a 'prayer of expiation' or a 'prayer for the forgiveness of sins'.",
+            answerMl: "‘ഹൂസോയോ’ എന്നാൽ 'പാപപരിഹാര പ്രാർത്ഥന' എന്നാണ് അർത്ഥം."
+        },
+        {
+            en: "What is the relevance of reciting the Hoosoyo prayer in between the ‘Promeyon-Sedra’ prayers?",
+            ml: "പ്രൊമിയോൺ-സെദറ പ്രാർത്ഥനകൾക്കിടയിൽ ഹൂസോയോ പ്രാർത്ഥന ചൊല്ലുന്നതിന്റെ പ്രസക്തി എന്താണ്?",
+            answerEn: "It emphasizes the need for purification and seeking God's mercy before the solemn sacrifice.",
+            answerMl: "വിശുദ്ധ ബലിക്ക് മുൻപായി ദൈവകൃപയ്ക്കും ശുദ്ധീകരണത്തിനുമുള്ള ആവശ്യകതയെ ഇത് ഓർമ്മിപ്പിക്കുന്നു."
+        },
+        {
+            en: "Why should the congregation 'stand well' during the recital of these prayers?",
+            ml: "ഈ പ്രാർത്ഥനകൾക്കിടയിൽ വിശ്വാസികൾ 'മര്യാദയോടും ഭക്തിയോടും കൂടി നിൽക്കണം' (സ്തൗമെൻ കാലോസ്) എന്ന് പറയുന്നത് എന്തുകൊണ്ട്?",
+            answerEn: "It signals that the Promeyon is about to be read and calls for reverence and attention.",
+            answerMl: "പ്രൊമിയോൻ വായന ആരംഭിക്കുന്നു എന്ന് സൂചിപ്പിക്കാനും, വിശ്വാസികൾ അതീവ ശ്രദ്ധയോടും ഭക്തിയോടും കൂടി നിൽക്കാനുമുള്ള ആഹ്വാനമാണിത്."
+        },
+        {
+            en: "What does the priest say at the concluding part of the Promeyon-Sedra prayers?",
+            ml: "പ്രൊമിയോൺ-സെദറ പ്രാർത്ഥനകളുടെ അവസാന ഭാഗത്ത് പുരോഹിതൻ എന്താണ് പ്രാർത്ഥിക്കുന്നത്?",
+            answerEn: "The priest asks the Lord to purify the incense and to show tender mercy upon the souls of the faithful and the departed souls.",
+            answerMl: "സമർപ്പിച്ച ധൂപത്തെ കർത്താവ് ശുദ്ധീകരിക്കണമെന്നും, വിശ്വാസികളോടും വാങ്ങിപ്പോയവരോടും കരുണ കാണിക്കണമെന്നും പുരോഹിതൻ പ്രാർത്ഥിക്കുന്നു."
+        }
     ]
 };
 
