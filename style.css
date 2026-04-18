@@ -458,3 +458,21 @@ input:checked + .slider:before {
   font-weight: 600;
   margin-top: 40px;
 }
+
+.coming-soon-card {
+  border: 2px dashed var(--gold-primary);
+  background-color: rgba(212, 175, 55, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 180px;
+}
+
+.coming-soon-text {
+  font-family: 'Merriweather', serif;
+  font-size: 1.1rem;
+  color: var(--wood-medium);
+  font-weight: 600;
+  font-style: italic;
+}
