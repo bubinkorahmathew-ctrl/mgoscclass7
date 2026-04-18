@@ -186,6 +186,38 @@ const chapterQuestions = {
             answerEn: "The priest asks the Lord to purify the incense and to show tender mercy upon the souls of the faithful and the departed souls.",
             answerMl: "സമർപ്പിച്ച ധൂപത്തെ കർത്താവ് ശുദ്ധീകരിക്കണമെന്നും, വിശ്വാസികളോടും വാങ്ങിപ്പോയവരോടും കരുണ കാണിക്കണമെന്നും പുരോഹിതൻ പ്രാർത്ഥിക്കുന്നു."
         }
+    ],
+    20: [
+        {
+            en: "What is the difference between abstinence and fasting?",
+            ml: "വർജ്ജനവും (Abstinence) ഉപവാസവും (Fasting) തമ്മിലുള്ള വ്യത്യാസം എന്താണ്?",
+            answerEn: "Abstinence means avoiding favorite foods for a period, while fasting means completely abstaining from any food for a duration. Fasting also means 'living together' with God.",
+            answerMl: "പ്രിയപ്പെട്ട ഭക്ഷണങ്ങൾ ഒഴിവാക്കുന്നതിനെ വർജ്ജനം എന്നും, ഒരു നിശ്ചിത സമയം എല്ലാവിധ ഭക്ഷണങ്ങളും പൂർണ്ണമായും ഒഴിവാക്കുന്നതിനെ ഉപവാസം എന്നും വിളിക്കുന്നു. ഉപവാസം എന്നാൽ ദൈവത്തോടൊപ്പം 'വസിക്കുക' എന്നും അർത്ഥമുണ്ട്."
+        },
+        {
+            en: "Why is controlling our food intake important for spiritual growth?",
+            ml: "ഭക്ഷണ നിയന്ത്രണം ആത്മീയ വളർച്ചയ്ക്ക് പ്രധാനമായിരിക്കുന്നത് എന്തുകൊണ്ട്?",
+            answerEn: "If we can control the strong natural human drive for food, we gain the strength to control other sensory impulses, which is essential for spiritual development.",
+            answerMl: "ആഹാരത്തോടുള്ള പ്രേരണ നിയന്ത്രിക്കാൻ സാധിച്ചാൽ, മറ്റു ഇന്ദ്രിയവികാരങ്ങളെ നിയന്ത്രിക്കാനുള്ള കരുത്ത് നമുക്ക് ലഭിക്കും. ഇത് ആത്മീയ വളർച്ചയ്ക്ക് അത്യന്താപേക്ഷിതമാണ്."
+        },
+        {
+            en: "What does it mean to 'fast with the eyes, tongue, and ears'?",
+            ml: "'കണ്ണ്, നാവ്, ചെവി എന്നിവ ഉപയോഗിച്ച് നോമ്പ് ആചരിക്കുക' എന്ന് പറയുന്നതിന്റെ അർത്ഥമെന്താണ്?",
+            answerEn: "True fasting includes avoiding looking at evil (eyes), speaking evil or lies (tongue), and listening to gossip (ears).",
+            answerMl: "ഭക്ഷണം ഒഴിവാക്കുന്നതിലുപരി, തിന്മകൾ കാണാതിരിക്കുക (കണ്ണ്), ചീത്ത വാക്കോ കള്ളമോ പറയാതിരിക്കുക (നാവ്), മറ്റുള്ളവരെക്കുറിച്ചുള്ള കുറ്റം കേൾക്കാതിരിക്കുക (ചെവി) എന്നിവ ഇതിൽ ഉൾപ്പെടുന്നു."
+        },
+        {
+            en: "Name some Biblical examples of fasting mentioned in the chapter.",
+            ml: "ഈ അധ്യായത്തിൽ പറയുന്ന ബൈബിളിലെ നോമ്പ് അനുഷ്ഠിച്ച വ്യക്തികൾ ആരെല്ലാം?",
+            answerEn: "Moses, Elijah, and especially Jesus Christ, who fasted and defeated the Evil One.",
+            answerMl: "മോശെ, ഏലിയാവ്, കൂടാതെ വിശിഷ്യ ഉപവസിച്ച് പിശാചിനെ പരാജയപ്പെടുത്തിയ യേശുക്രിസ്തു എന്നിവർ."
+        },
+        {
+            en: "What is the goal of observing fasts in the Orthodox Church?",
+            ml: "ഓർത്തഡോക്സ് സഭയിൽ നോമ്പ് ആചരിക്കുന്നതിന്റെ ലക്ഷ്യം എന്താണ്?",
+            answerEn: "The goal is to refuse worldly tastes, attain a semblance of angels, and dedicate ourselves to God's will through prayer and self-control.",
+            answerMl: "ലൗകിക താൽപ്പര്യങ്ങൾ വെടിയുക, മാലാഖമാരുടെ സ്വഭാവം കൈവരിക്കുക, പ്രാർത്ഥനയിലൂടെയും ആത്മനിയന്ത്രണത്തിലൂടെയും ദൈവഹിതത്തിനായി നമ്മെത്തന്നെ സമർപ്പിക്കുക എന്നിവയാണ് ഇതിന്റെ ലക്ഷ്യം."
+        }
     ]
 };
 
